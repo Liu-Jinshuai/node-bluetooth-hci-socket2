@@ -575,4 +575,8 @@ void BluetoothHciSocket::PollCallback(uv_poll_t* handle, int status, int events)
   p->poll();
 }
 
-NODE_MODULE(binding, BluetoothHciSocket::Init);
+#if NODE_MAJOR_VERSION >= 10
+NAN_MODULE_WORKER_ENABLED(binding, BluetoothHciSocket::Init)
+#else
+NODE_MODULE(binding, BluetoothHciSocket::Init)
+#endif
