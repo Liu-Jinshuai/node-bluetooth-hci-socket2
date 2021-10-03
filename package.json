@@ -1,6 +1,6 @@
 {
   "name": "@modum-io/bluetooth-hci-socket",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Bluetooth HCI socket binding for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
