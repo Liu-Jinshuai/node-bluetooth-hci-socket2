@@ -4,9 +4,9 @@
 
 **Thanks to [modum-io](https://github.com/modum-io/node-bluetooth-hci-socket) and [abandonware](https://github.com/abandonware/node-bluetooth-hci-socket) . Thanks to all open source contributors and supporters,thank you to everyone.**
 
-ble peripherals: 
+**ble peripherals:**
 
- - [bleno2](https://github.com/Liu-Jinshuai/bleno2)
+ - **[bleno2](https://github.com/Liu-Jinshuai/bleno2)**
 
 -------
 
