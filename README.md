@@ -1,28 +1,10 @@
-# node-bluetooth-hci-socket
+# node-bluetooth-hci-socket2
 
-[![GitHub forks](
-https://img.shields.io/github/forks/abandonware/node-bluetooth-hci-socket.svg?style=social&label=Fork&maxAge=2592000
-)](
-https://GitHub.com/abandonware/node-bluetooth-hci-socket/network/
-)
-[![license](
-https://img.shields.io/badge/license-MIT-0.svg
-)](MIT)
-[![NPM](
-https://img.shields.io/npm/v/@abandonware/bluetooth-hci-socket.svg
-)](
-https://www.npmjs.com/package/@abandonware/bluetooth-hci-socket
-)
-[![Fediverse](
-https://img.shields.io/mastodon/follow/279303?domain=https%3A%2F%2Fmastodon.social&style=social#rzr
-)](
-https://mastodon.social/@rzr/103886495590566533#bluetooth-hci-socket
-)
-[![IRC Channel](
-https://img.shields.io/badge/chat-on%20libera-brightgreen.svg
-)](
-https://kiwiirc.com/client/irc.libera.chat/#iot
-)
+**This is a fork of node-bluetooth-hci-socket. Since node-bluetooth-hci-socket has not been updated for a long time, some bugs and issues have not been updated. This branch will inherit its spirit and continue to improve it. Thank you for your understanding and support.**
+
+**Thanks to [modum-io](https://github.com/modum-io/node-bluetooth-hci-socket) and [abandonware](https://github.com/abandonware/node-bluetooth-hci-socket) . Thanks to all open source contributors and supporters,thank you to everyone.**
+
+-------
 
 Bluetooth HCI socket binding for Node.js
 
@@ -77,13 +59,13 @@ Note:
 ## Install
 
 ```sh
-npm install @abandonware/bluetooth-hci-socket
+npm i bluetooth-hci-socket2
 ```
 
 ## Usage
 
 ```javascript
-var BluetoothHciSocket = require('@abandonware/bluetooth-hci-socket');
+var BluetoothHciSocket = require('bluetooth-hci-socket2');
 ```
 
 ### Actions

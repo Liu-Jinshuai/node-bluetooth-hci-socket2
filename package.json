@@ -1,12 +1,12 @@
 {
-  "name": "@modum-io/bluetooth-hci-socket",
-  "version": "0.6.2",
+  "name": "bluetooth-hci-socket2",
+  "version": "0.6.6",
   "description": "Bluetooth HCI socket binding for Node.js",
   "main": "index.js",
   "types": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modum-io/node-bluetooth-hci-socket.git"
+    "url": "https://github.com/Liu-Jinshuai/node-bluetooth-hci-socket2"
   },
   "keywords": [
     "HCI",
@@ -17,9 +17,9 @@
   "author": "Sandeep Mistry <sandeep.mistry@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/modum-io/node-bluetooth-hci-socket/issues"
+    "url": "https://github.com/Liu-Jinshuai/node-bluetooth-hci-socket2/issues"
   },
-  "homepage": "https://github.com/modum-io/node-bluetooth-hci-socket",
+  "homepage": "https://github.com/Liu-Jinshuai/node-bluetooth-hci-socket2",
   "os": [
     "linux",
     "android",
